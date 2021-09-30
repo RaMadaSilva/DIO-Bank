@@ -1,0 +1,16 @@
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\bin\Debug\net5.0\DIO_Bank.exe
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\bin\Debug\net5.0\DIO_Bank.deps.json
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\bin\Debug\net5.0\DIO_Bank.runtimeconfig.json
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\bin\Debug\net5.0\DIO_Bank.runtimeconfig.dev.json
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\bin\Debug\net5.0\DIO_Bank.dll
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\bin\Debug\net5.0\ref\DIO_Bank.dll
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\bin\Debug\net5.0\DIO_Bank.pdb
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\DIO_Bank.csproj.AssemblyReference.cache
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\DIO_Bank.GeneratedMSBuildEditorConfig.editorconfig
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\DIO_Bank.AssemblyInfoInputs.cache
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\DIO_Bank.AssemblyInfo.cs
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\DIO_Bank.csproj.CoreCompileInputs.cache
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\DIO_Bank.dll
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\ref\DIO_Bank.dll
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\DIO_Bank.pdb
+R:\DEV_LABS\DIO\BOOTCAMP_Iniciante_dotNet\DESAFIOS_dotNet\DIO_Bank\DIO_Bank\obj\Debug\net5.0\DIO_Bank.genruntimeconfig.cache
